@@ -1,3 +1,12 @@
+package dsa;
+import java.util.PriorityQueue;
+import java.util.Queue;
+
+/**
+ *
+ * @author Sandali
+ */
+
 public class priorityqueue {
     public static void main(String[] args) {
         Queue<Double> queue = new PriorityQueue<>();
